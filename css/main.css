@@ -9,16 +9,16 @@ s {
     image-size: width:30% hieght:30%;
 }
 h1 { 
-    font-size: 3em; 
+    font-size: 6em; 
     font-family:'lato', 'Source Sans Pro', 'Sans-Serif'; 
 } 
 
 h4 { 
-    font-size: 3em; 
+    font-size: 5em; 
     font-family:'lato', 'Source Sans Pro', 'Sans-Serif'; 
 } 
 p { 
-    font-size: 1.5em; 
+    font-size: 2em; 
     line-height: 1.4em; 
     color: #FFFFFF; 
 } 
