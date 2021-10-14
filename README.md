@@ -15,3 +15,5 @@
 
 ### theres alot of different sections in my repository such as the css used, thethe layout that is used thrpough all the pages and the different posts on the webpage. 
 
+#### have used images linked to the sport that i am talking about to catch the readers eye.
+
