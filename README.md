@@ -11,5 +11,5 @@
 
 3.american football
 
-### more will be added to it abut other weird and fun sports
+### more will be added to it about other weird and fun sports
 
