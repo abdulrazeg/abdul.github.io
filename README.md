@@ -5,11 +5,11 @@
 
 ### currently the webpage blog has three different type of sports so far:
 
-1.basketball
+__1.basketball__
 
-2.football
+__2.football__
 
-3.american football
+__3.american football__
 
 ### more will be added to it about other weird and fun sports such as underwater hockey,bossaball and zorbing
 
