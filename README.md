@@ -1,7 +1,7 @@
 # abdul.github.io
 [Google](https://abdulrazeg.github.io//) 
 
-### *emphasis* this website is about the different type of sports played aound the world. some that are common and some that are rare.
+### _this website is about the different type of sports played aound the world. some that are common and some that are rare._
 
 ### currently the webpage blog has three different type of sports so far:
 
@@ -11,4 +11,5 @@
 
 3.american football
 
-### more will be added to it 
+### more will be added to it abut other weird and fun sports
+
