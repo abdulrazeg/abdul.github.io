@@ -10,7 +10,12 @@ s {
 }
 h1 { 
     font-size: 3em; 
-    font-family:'lato', 'Arial', 'Sans-Serif'; 
+    font-family:'lato', 'Source Sans Pro', 'Sans-Serif'; 
+} 
+
+h4 { 
+    font-size: 3em; 
+    font-family:'lato', 'Source Sans Pro', 'Sans-Serif'; 
 } 
 p { 
     font-size: 1.5em; 
@@ -23,7 +28,7 @@ footer {
 } 
  
 nav ul, footer ul { 
-    font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
+    font-family:'lato', 'Source Sans Pro', 'Sans-Serif'; 
     padding: 0px; 
     list-style: none; 
     font-weight: bold; 
